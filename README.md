@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drishtissingh
-- 👀 I’m interested in blockcahin technology
+- 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me drishti.dt@gmail.com
