@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drishtissingh
 - 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on frontend development projects
 - 📫 How to reach me drishti.dt@gmail.com
 
 <!---
