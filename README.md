@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @drishtissingh
+- 👋 Hi, I’m Drishti Singh
 - 👀 I’m interested in RPA, frontend, blockchain technology
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on frontend development projects and robotic processes automation
+- 💞️ I’m looking to collaborate on frontend development projects and robotic processes automation projects
 - 📫 How to reach me drishti.dt@gmail.com
 
 <!---
